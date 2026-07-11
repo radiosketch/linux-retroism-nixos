@@ -25,23 +25,18 @@
 
 `Hyprland` (mandatory because this is my config and I said so :3)
 
-
 <br>
 
 ### Download & Installation 🡇
 
 <div style="border-left: 4px solid #c8bfa1ff; padding: 12px 4px 1px 2px; background-color: #0000003e; margin-bottom: 12px">
 
-- After you've cloned the repo, move the repo to `/etc`. Moveyour `hardware-configuration.nix` to the folder before renaming it to `/etc/nixos`.
-- There are more steps but I don't remember them right now. Bets of luck. :)
+- After you've cloned the repo, move the repo to `/etc`. Move your `hardware-configuration.nix` to the folder before renaming it to `/etc/nixos`.
+- There are more steps but I don't remember them right now. Best of luck. :)
 
 ### ✦ Notes & TODO Lists
 
-I recommend using Hyprland, as there are some issues sway has with NVIDIA GPUs in my experience.
-I will attempt to add fixes to sway if any bugs occur.
-
-Both the Icon theme and GTK theme are very early, I will continue to edit and improve them in
-future versions.
+Both the Icon theme and GTK theme are very early, I may or may not update them within a reasonable timeframe if/when diinki does.
 
 **v0.2 TODO List:**
 
