@@ -10,11 +10,6 @@
 
 ![image](./screenshots/default.png)
 
-| wallpaper by 96YOTTEA              | wallpaper: Metropolis             |
-| ---------------------------------- | --------------------------------- |
-| ![image](./screenshots/cherry.png) | ![image](./screenshots/yorha.png) |
-|                                    |                                   |
-
 <br>
 
 ### Features (v0.1) 🛈
