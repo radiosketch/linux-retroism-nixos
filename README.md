@@ -20,33 +20,11 @@
 
 <br>
 
-### Dependencies ✓
-
-You can use either Hyprland or SwayFX/Sway, although I actively use & debug on hyprland. The install script
-will let you know if any dependencies are missing.
-
-In general, you must install these or else things may break & not work.
-
 <div style="border-left: 4px solid #c8bfa1ff; padding: 12px 100px 1px 12px; background-color: #0000003e; margin-bottom: 8px">
 <strong>Window Manager:</strong><br>
 
-`Hyprland` (preferred) or `SwayFX` (less support) | `hyprpaper` or `swaybg`
+`Hyprland` (mandatory because this is my config and I said so :3)
 
-</div>
-
-<div style="border-left: 4px solid #c8bfa1ff; padding: 12px 100px 1px 12px; background-color: #0000003e; margin-bottom: 8px">
-<strong>Applications:</strong><br>
-
-`nemo`, `kitty`, `nwg-look`, `quickshell`
-
-</div>
-
-<div style="border-left: 4px solid #c8bfa1ff; padding: 12px 4px 1px 12px; background-color: #0000003e; margin-bottom: 8px">
-<strong>Utilities:</strong><br>
-
-`grim`, `slurp`, `swappy`, `hyprshot`, `wl-clipboard`, `mako`, `dconf`, `jq`, `socat`,
-
-</div>
 
 <br>
 
