@@ -19,7 +19,6 @@
 
 ### Features (v0.1) 🛈
 
-- Automatic installer (`install.sh` script) with backup support
 - Fully quickshell-based front-end (taskbar, app launcher, settings menu, etc)
 - Theme support & Built-in theme switcher
 - Icon theme & GTK theme
@@ -60,22 +59,8 @@ In general, you must install these or else things may break & not work.
 
 <div style="border-left: 4px solid #c8bfa1ff; padding: 12px 4px 1px 2px; background-color: #0000003e; margin-bottom: 12px">
 
-- After you've installed or cloned the repo, simply run the included `install.sh` script.
-- Note that you must still manually move the GTK theme and Icon
-  theme to `~/.local/share/icons` and `~/.local/share/themes`
-  respectively. You can set them to be active with the nwg-look
-  GUI.
-- To update, simply get a newer version, and run the `install.sh` script once more.
-- You can also manually move the config directories if you wish to manually install.
-</div>
-
-I recommend getting versions from the `releases` page, but you can also git clone the repo if you
-want the latest changes at a higher risk.
-
-The script will take care of everything and will create a backups of all
-existing config files that it would replace.
-
-<br>
+- After you've cloned the repo, move the repo to `/etc`. Moveyour `hardware-configuration.nix` to the folder before renaming it to `/etc/nixos`.
+- There are more steps but I don't remember them right now. Bets of luck. :)
 
 ### ✦ Notes & TODO Lists
 
