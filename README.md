@@ -8,7 +8,7 @@
 
 </div>
 
-![image](./screenshots/default.png)
+![image](./.screenshots/default.png)
 
 <br>
 
