@@ -93,6 +93,7 @@
     gimp
     libnotify
     git
+    discord
   ];
 
   # Home Manager
