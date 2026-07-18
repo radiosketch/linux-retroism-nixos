@@ -56,7 +56,7 @@
         "nm-applet"
         "hyprpaper"
         "quickshell"
-        "hyprctl setcursor Hackneyed-24px 24"
+        "hyprctl setcursor Hackneyed 24"
       ];
 
       env = [
@@ -237,4 +237,18 @@
   # Mako notification daemon
   # ============================================================
   services.mako.enable = true;
+
+  # ============================================================
+  # Firefox
+  # ============================================================
+  programs.firefox = {
+    enable = true;
+    profiles.myprofile = {
+      id = 0;
+      isDefault = true;
+      settings = {
+        "ui.systemUsesDarkTheme" = 1;
+      };
+    };
+  };
 }

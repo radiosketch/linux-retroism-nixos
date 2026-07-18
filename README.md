@@ -43,7 +43,6 @@ Both the Icon theme and GTK theme are very early, I may or may not update them w
 
 **v0.2 TODO List:**
 
-- [ ] Fix the cursor. It doesn't look like diinki's cursor yet.
 - [ ] Update GTK Theme to be less janky.
 - [ ] Higher res icon theme and more icons.
 - [ ] Proper settings menu, change font sizes, font, wallpapers, etc.
